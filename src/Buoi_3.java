@@ -72,8 +72,12 @@ public class Buoi_3 {
         System.out.println("Giá trị của st6: " + str6);
         //cú pháp: kiểu dữ liệu cần chuyển.parseKieu dữ liệu cần chuyển(giá trị cần chuyển)
 
+        //git add -A : chỉ thêm file có thay đổi
+        //git add .: thêm all
+        // git commit -m "demo update code"
+        // git push --set-upstream origin Dino
 
-        //testtttt
+
 
 
 
